@@ -1,7 +1,7 @@
 # TaiBank - Sistema Bancário em Java
 
 ## Descrição
-TaiBank é um sistema bancário desenvolvido em Java, que utiliza programação orientada a objetos (OO) e Java Swing para interfaces gráficas. Este projeto foi criado como parte de um estudo de desenvolvimento de software.
+TaiBank é um sistema bancário desenvolvido em Java, que utiliza programação orientada a objetos (POO) e Java Swing para interfaces gráficas. Este projeto foi criado como parte de um estudo de desenvolvimento de software.
 
 ## Funcionalidades
 - **Criação de Contas:** O sistema permite aos usuários criar contas bancárias do tipo poupança ou corrente, informando nome do titular, saldo inicial e outras informações relevantes.
